@@ -1,10 +1,10 @@
-package manager.task.design;
+package patterns.design;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DesignApplicationTests {
+class TaskManagerApplicationTests {
 
 	@Test
 	void contextLoads() {
